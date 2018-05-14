@@ -5,7 +5,7 @@
 #include <iostream>
 using namespace std;
 
-const int DBSIZE = 10; //Max number of bank accounts
+const int DBSIZE = 100; //Max number of bank accounts
 
 void displayIntro();
 int optionsMenu(int accountType, Account *bankAccount);
